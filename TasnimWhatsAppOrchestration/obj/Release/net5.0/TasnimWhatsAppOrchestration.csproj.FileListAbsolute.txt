@@ -1,0 +1,15 @@
+C:\Workspace\TasnimWhatsAppIntegration\TasnimWhatsAppOrchestration\bin\Release\net5.0\TasnimWhatsAppOrchestration.deps.json
+C:\Workspace\TasnimWhatsAppIntegration\TasnimWhatsAppOrchestration\bin\Release\net5.0\TasnimWhatsAppOrchestration.runtimeconfig.json
+C:\Workspace\TasnimWhatsAppIntegration\TasnimWhatsAppOrchestration\bin\Release\net5.0\TasnimWhatsAppOrchestration.runtimeconfig.dev.json
+C:\Workspace\TasnimWhatsAppIntegration\TasnimWhatsAppOrchestration\bin\Release\net5.0\TasnimWhatsAppOrchestration.dll
+C:\Workspace\TasnimWhatsAppIntegration\TasnimWhatsAppOrchestration\bin\Release\net5.0\ref\TasnimWhatsAppOrchestration.dll
+C:\Workspace\TasnimWhatsAppIntegration\TasnimWhatsAppOrchestration\bin\Release\net5.0\TasnimWhatsAppOrchestration.pdb
+C:\Workspace\TasnimWhatsAppIntegration\TasnimWhatsAppOrchestration\obj\Release\net5.0\TasnimWhatsAppOrchestration.csprojAssemblyReference.cache
+C:\Workspace\TasnimWhatsAppIntegration\TasnimWhatsAppOrchestration\obj\Release\net5.0\TasnimWhatsAppOrchestration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\TasnimWhatsAppIntegration\TasnimWhatsAppOrchestration\obj\Release\net5.0\TasnimWhatsAppOrchestration.AssemblyInfoInputs.cache
+C:\Workspace\TasnimWhatsAppIntegration\TasnimWhatsAppOrchestration\obj\Release\net5.0\TasnimWhatsAppOrchestration.AssemblyInfo.cs
+C:\Workspace\TasnimWhatsAppIntegration\TasnimWhatsAppOrchestration\obj\Release\net5.0\TasnimWhatsAppOrchestration.csproj.CoreCompileInputs.cache
+C:\Workspace\TasnimWhatsAppIntegration\TasnimWhatsAppOrchestration\obj\Release\net5.0\TasnimWhatsAppOrchestration.dll
+C:\Workspace\TasnimWhatsAppIntegration\TasnimWhatsAppOrchestration\obj\Release\net5.0\ref\TasnimWhatsAppOrchestration.dll
+C:\Workspace\TasnimWhatsAppIntegration\TasnimWhatsAppOrchestration\obj\Release\net5.0\TasnimWhatsAppOrchestration.pdb
+C:\Workspace\TasnimWhatsAppIntegration\TasnimWhatsAppOrchestration\obj\Release\net5.0\TasnimWhatsAppOrchestration.genruntimeconfig.cache
